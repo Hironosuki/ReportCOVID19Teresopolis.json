@@ -1,4 +1,4 @@
-﻿{
+{
     "Cadastro": [
         {
             "CPF": "Null",
@@ -259,7 +259,7 @@
     ],
     "Acumulado": [
         {
-            "Dia": "3/27/2020",
+            "Dia": "27/03/2020",
             "Casos suspeitos": "25",
             "Casos descartados": "39",
             "Casos confirmados": "1",
@@ -269,7 +269,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "3/28/2020",
+            "Dia": "28/03/2020",
             "Casos suspeitos": "26",
             "Casos descartados": "39",
             "Casos confirmados": "1",
@@ -279,7 +279,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "3/29/2020",
+            "Dia": "29/03/2020",
             "Casos suspeitos": "29",
             "Casos descartados": "40",
             "Casos confirmados": "1",
@@ -289,7 +289,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "3/30/2020",
+            "Dia": "30/03/2020",
             "Casos suspeitos": "30",
             "Casos descartados": "42",
             "Casos confirmados": "3",
@@ -299,7 +299,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "3/31/2020",
+            "Dia": "31/03/2020",
             "Casos suspeitos": "34",
             "Casos descartados": "44",
             "Casos confirmados": "4",
@@ -309,7 +309,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/1/2020",
+            "Dia": "01/04/2020",
             "Casos suspeitos": "38",
             "Casos descartados": "46",
             "Casos confirmados": "4",
@@ -319,7 +319,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/2/2020",
+            "Dia": "02/04/2020",
             "Casos suspeitos": "36",
             "Casos descartados": "52",
             "Casos confirmados": "4",
@@ -329,7 +329,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/3/2020",
+            "Dia": "03/04/2020",
             "Casos suspeitos": "23",
             "Casos descartados": "67",
             "Casos confirmados": "5",
@@ -339,7 +339,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/4/2020",
+            "Dia": "04/04/2020",
             "Casos suspeitos": "33",
             "Casos descartados": "67",
             "Casos confirmados": "6",
@@ -349,7 +349,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/5/2020",
+            "Dia": "05/04/2020",
             "Casos suspeitos": "37",
             "Casos descartados": "71",
             "Casos confirmados": "7",
@@ -359,7 +359,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/6/2020",
+            "Dia": "06/04/2020",
             "Casos suspeitos": "28",
             "Casos descartados": "73",
             "Casos confirmados": "9",
@@ -369,7 +369,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/7/2020",
+            "Dia": "07/04/2020",
             "Casos suspeitos": "31",
             "Casos descartados": "73",
             "Casos confirmados": "10",
@@ -379,7 +379,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/8/2020",
+            "Dia": "08/04/2020",
             "Casos suspeitos": "31",
             "Casos descartados": "73",
             "Casos confirmados": "14",
@@ -389,7 +389,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/9/2020",
+            "Dia": "09/04/2020",
             "Casos suspeitos": "51",
             "Casos descartados": "94",
             "Casos confirmados": "16",
@@ -399,7 +399,7 @@
             "Óbito": "0"
         },
         {
-            "Dia": "4/10/2020",
+            "Dia": "10/04/2020",
             "Casos suspeitos": "48",
             "Casos descartados": "97",
             "Casos confirmados": "16",
