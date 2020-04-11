@@ -5,6 +5,8 @@ Casos e óbitos confirmados por dia, utilizando dados oficiais da Secretaria Mun
 
 Mais informações: https://teresopolis.rj.gov.br/juntosvenceremosocoronavirus/
 
+Painel COVID-19: https://painel.teresopolis.rj.gov.br/
+
 # Equipe de desenvolvimento
 Vinicius Cunha - Analista de Businnes Intelligence
 
